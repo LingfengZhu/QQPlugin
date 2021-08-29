@@ -34,7 +34,7 @@ QQ 小助手
 
 * 点击`clone or download`按钮下载 QQPlugin 并解压，打开Terminal(终端)，拖动解压后`Install.sh` 文件(在 Other 文件夹中)到 Terminal 回车即可。
 
-**2. 删除程序
+**2. 删除程序**
 
 `Install.sh` 脚本运行结束后，可以将 QQPlugin 文件夹删除。
 
