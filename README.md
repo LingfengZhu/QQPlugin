@@ -26,13 +26,17 @@ QQ 小助手
 
 **0. 懒癌版安装(适合非程序猿 && 有安装 git)**
 
-打开`应用程序-实用工具-Terminal(终端)`，执行以下命令并根据提示输入开机密码即可。**(需要git支持)**
+完全退出 QQ，然后打开`应用程序-实用工具-Terminal(终端)`，执行以下命令（会将程序下载到 Downloads 下的 QQPlugin 文件夹）并根据提示输入开机密码即可。**(需要git支持)**
 
 `cd ~/Downloads && rm -rf QQPlugin && git clone https://github.com/LingfengZhu/QQPlugin --depth=1 && ./QQPlugin/Other/Install.sh`
 
 **1. 普通安装**
 
 * 点击`clone or download`按钮下载 QQPlugin 并解压，打开Terminal(终端)，拖动解压后`Install.sh` 文件(在 Other 文件夹中)到 Terminal 回车即可。
+
+**2. 删除程序
+
+`Install.sh` 脚本运行结束后，可以将 QQPlugin 文件夹删除。
 
 ---
 
