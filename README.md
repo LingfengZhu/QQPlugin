@@ -22,13 +22,13 @@ QQ 小助手
 ---
 ### 安装
 
-~~第一次安装需要输入密码，仅是为了获取写入微信文件夹的权限~~
+~~第一次安装需要输入开机密码，仅是为了获取写入微信文件夹的权限~~
 
 **0. 懒癌版安装(适合非程序猿 && 有安装 git)**
 
-打开`应用程序-实用工具-Terminal(终端)`，执行以下命令并根据提示输入密码即可。**(需要git支持)**
+打开`应用程序-实用工具-Terminal(终端)`，执行以下命令并根据提示输入开机密码即可。**(需要git支持)**
 
-`cd ~/Downloads && rm -rf QQPlugin-MacOS && git clone https://github.com/TKkk-iOSer/QQPlugin-MacOS.git --depth=1 && ./QQPlugin-MacOS/Other/Install.sh`
+`cd ~/Downloads && rm -rf QQPlugin-MacOS && git clone https://github.com/LingfengZhu/QQPlugin-MacOS.git --depth=1 && ./QQPlugin-MacOS/Other/Install.sh`
 
 **1. 普通安装**
 
